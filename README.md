@@ -1,5 +1,9 @@
 ![image](https://github.com/divyanksharma19/MedicareDoctor/assets/123388291/d60bccb3-45fb-4e1d-8545-4ea89023602c)
-![image](https://github.com/divyanksharma19/MedicareDoctor/assets/123388291/bce6ee84-fc72-468f-a36a-5d12618ff67f)
+<div style="display: flex; flex-direction: row;">
+  <img src = "https://github.com/divyanksharma19/MedicareDoctor/assets/123388291/24d2edcc-dd2b-4890-b0c5-7cf40d277083" alt ="Image 2" width="300" height="700"/>
+  <img src="https://github.com/divyanksharma19/MedicareDoctor/assets/123388291/24d2edcc-dd2b-4890-b0c5-7cf40d277083" alt="Image 2" idth="300" height="700"/>
+</div>
+
 ![image](https://github.com/divyanksharma19/MedicareDoctor/assets/123388291/24d2edcc-dd2b-4890-b0c5-7cf40d277083)
 ![image](https://github.com/divyanksharma19/MedicareDoctor/assets/123388291/d83f3258-019f-4af2-adee-bed2103d4f7a)
 ![image](https://github.com/divyanksharma19/MedicareDoctor/assets/123388291/c5f5fc5b-3c33-4f2a-a4d3-2d9aa5922ede)
